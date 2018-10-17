@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# API security
+config.js
+hiddenSampleJSON.json

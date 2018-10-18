@@ -1,5 +1,5 @@
 # FantasyAggregator
-Fantasy Football App to easily manage multiple Fantasy Football Teams
+Fantasy Football App to easily manage multiple Fantasy Football Teams.  Initially this will only be for Yahoo NFL Fantasy, with the hope to expand to other sports and sites as I get more comfortable with how to manage API's.  On that note Yahoo's API documentation is pretty bad so I will try my best to document any discoveries I make in this respository.
 
 ## API Keys ##
 The API Keys are hidden using the method below
